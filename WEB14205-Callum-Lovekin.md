@@ -32,8 +32,6 @@ Week 7: [500 words reflective report on your contribution to this project.]()
 
 Below is a list of material required for the hand-in for the project. I have also included a Branding folder which has fonts,colours and marketing material that goes along with the story.
 
-- [Competitor Analysis]()
-
 - [Research pack (The underpinning of your Narrative, character]()
 
 - [Peer Lessons]()
