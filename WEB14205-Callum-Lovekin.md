@@ -28,6 +28,12 @@ Week 6: [If you could be the character in your own fictional story. What type of
 Week 7: [500 words reflective report on your contribution to this project.]() 
 
 
+![Concept](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Concept.png)
+
+The Trans-Media story we have created is a really interesting one and focuses alot on physical experience as well as social media interaction. To go along with the story we will have multiple pop up Victorian Streets around London that will act as part of a communal game that goes along with the story. 
+
+People can go to these streets and look around for clues to progress the story, these physical pop up streets will be timed and if the public fail to find all the clues during the giving time it will have a negative effect on the progression of the story. Once people find these icons they tweet a picture of them to the social media profile of the protagnoist and it responds with the next part of the story.
+
 ![Material](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Material.png)
 
 Below is a list of material required for the hand-in for the project. I have also included a Branding folder which has fonts,colours and marketing material that goes along with the story.
