@@ -13,11 +13,11 @@ This project on interactive narratives was an interesting one and I have learnt 
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Blog.png)
 
-Week 1 : [What are some of the fundamental elements that are required to develop a interactive narrative and why?]() 
+Week 1 : [What are some of the fundamental elements that are required to develop a interactive narrative?]() 
 
-Week 2: [Research, evidence and explain case studies of how storytelling has been instrumental in the creation of communities and cultures in modern times]() 
+Week 2: [How storytelling has been instrumental in the creation of communities and cultures in modern times]() 
 
-Week 3: [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?]() 
+Week 3: [What are your strength and weaknesses in relation to completing this project?]() 
 
 Week 4: [Pair up with another person and give each other feedback on your peer learning mini-lessons.]() 
 
