@@ -9,7 +9,7 @@
 
 ### Introduction
 
-This project on User Experience was a really interesting one that I have learnt alot. Having the ability to of worked on a live brief with an actual client was a really invaluable experience. Working on an App for a museum has been a challenging experience but an exciting one as it is not something I would usually work on so it has pushed me. 
+This project on interactive narratives was an interesting one and I have learnt a lot about how stories are told. Grasping Trans-Media was something I struggled with in the beginning but have now a solid understanding of what it means and examples. I feel confident with the information I have learnt.
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Blog.png)
 
