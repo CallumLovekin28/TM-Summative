@@ -32,7 +32,7 @@ Week 7: [500 words reflective report on your contribution to this project.]()
 
 Below is a list of material required for the hand-in for the project. I have also included a Branding folder which has fonts,colours and marketing material that goes along with the story.
 
-- [Research pack (The underpinning of your Narrative, character]()
+- [Research pack (The underpinning of your Narrative, character](https://docs.google.com/document/d/1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU/edit?usp=sharing)
 
 - [Peer Lessons](https://drive.google.com/drive/folders/1m726hTi9d47nbCWN5lZxXsrGB_znrmrz?usp=sharing)
 
