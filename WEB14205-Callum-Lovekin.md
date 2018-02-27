@@ -38,7 +38,7 @@ People can go to these streets and look around for clues to progress the story, 
 
 Below is a list of material required for the hand-in for the project. I have also included a Branding folder which has fonts,colours and marketing material that goes along with the story as well as an IRL Concept folder.
 
-- [Research pack (The underpinning of your Narrative, character](https://docs.google.com/document/d/1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU/edit?usp=sharing)
+- [Research pack](https://docs.google.com/document/d/1ZzpOAogtA2OiX-jvpGDOexpM2HZ3hbBRjK6F4RL6mSU/edit?usp=sharing)
 
 - [Peer Lessons](https://drive.google.com/drive/folders/1m726hTi9d47nbCWN5lZxXsrGB_znrmrz?usp=sharing)
 
