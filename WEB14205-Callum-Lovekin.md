@@ -34,17 +34,17 @@ Below is a list of material required for the hand-in for the project. I have als
 
 - [Research pack (The underpinning of your Narrative, character]()
 
-- [Peer Lessons]()
+- [Peer Lessons](https://drive.google.com/drive/folders/1m726hTi9d47nbCWN5lZxXsrGB_znrmrz?usp=sharing)
 
-- [Meta-narrative outline (Plot, narrative, context, genre, character)]()
+- [Meta-narrative outline](https://docs.google.com/document/d/16KBjz8Gv0RbDfv04seh4NkCbY8lHUhUjjN-ayZhn7Zw/edit?usp=sharing)
 
-- [Branding]()
+- [Branding](https://drive.google.com/drive/folders/1Ps1x1_uA93FpZcYBRahK4A6I24RAdu3d?usp=sharing)
 
 - [Twine Production]()
 
 - [500 word reflective report]()
 
-- [Formative Presentation]()
+- [Formative Presentation](https://drive.google.com/file/d/1w4gcM-3ps7OzZn6ZouOo0hQ5t6Gdfs8e/view?usp=sharing)
 
 - [Summative presentation]()
 
