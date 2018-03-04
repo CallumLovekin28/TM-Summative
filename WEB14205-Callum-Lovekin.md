@@ -25,7 +25,7 @@ Week 5: [Reflect and evidence your contribution to this group project so far.](h
 
 Week 6: [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@c.lovekin/what-type-of-character-would-i-be-tm6-3b9f94dadda6) 
 
-Week 7: [500 words reflective report on your contribution to this project.]() 
+Week 7: [500 words reflective report on your contribution to this project.](https://medium.com/@c.lovekin/reflective-report-tm7-8a0dae16d23c) 
 
 
 ![Concept](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Concept.png)
@@ -50,7 +50,7 @@ Below is a list of material required for the hand-in for the project. I have als
 
 - [IRL Concepts](https://drive.google.com/drive/folders/14_4dTvTGwNcZhW-ForxBMyWPOLGG_2vx?usp=sharing)
 
-- [500 word reflective report]()
+- [500 word reflective report](https://medium.com/@c.lovekin/reflective-report-tm7-8a0dae16d23c)
 
 - [Formative Presentation](https://drive.google.com/file/d/1w4gcM-3ps7OzZn6ZouOo0hQ5t6Gdfs8e/view?usp=sharing)
 
