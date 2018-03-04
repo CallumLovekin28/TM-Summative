@@ -13,17 +13,17 @@ This project on interactive narratives was an interesting one and I have learnt 
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/TM-Summative/master/Images/Blog.png)
 
-Week 1 : [What are some of the fundamental elements that are required to develop a interactive narrative?]() 
+Week 1 : [What are some of the fundamental elements that are required to develop a interactive narrative?](https://medium.com/@c.lovekin/transmedia-week-one-7b3eb740a51f) 
 
-Week 2: [How storytelling has been instrumental in the creation of communities and cultures in modern times]() 
+Week 2: [How storytelling has been instrumental in the creation of communities and cultures in modern times](https://medium.com/@c.lovekin/transmedia-week-two-27df53a1d250) 
 
-Week 3: [What are your strength and weaknesses in relation to completing this project?]() 
+Week 3: [What are your strength and weaknesses in relation to completing this project?](https://medium.com/@c.lovekin/transmedia-week-three-e096c664a02) 
 
-Week 4: [Pair up with another person and give each other feedback on your peer learning mini-lessons.]() 
+Week 4: [Pair up with another person and give each other feedback on your peer learning mini-lessons.](https://medium.com/@c.lovekin/choices-tm4-5bd3b8734afe) 
 
-Week 5: [Reflect and evidence your contribution to this group project so far.]()
+Week 5: [Reflect and evidence your contribution to this group project so far.](https://medium.com/@c.lovekin/reflection-on-the-term-tm5-5ded424e2006)
 
-Week 6: [If you could be the character in your own fictional story. What type of character would you be and why?]() 
+Week 6: [If you could be the character in your own fictional story. What type of character would you be and why?](https://medium.com/@c.lovekin/what-type-of-character-would-i-be-tm6-3b9f94dadda6) 
 
 Week 7: [500 words reflective report on your contribution to this project.]() 
 
