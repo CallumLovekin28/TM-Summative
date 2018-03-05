@@ -46,7 +46,7 @@ Below is a list of material required for the hand-in for the project. I have als
 
 - [Branding](https://drive.google.com/drive/folders/1Ps1x1_uA93FpZcYBRahK4A6I24RAdu3d?usp=sharing)
 
-- [Twine Production]()
+- [Twine Production](https://drive.google.com/file/d/1szO_1wCfqZZy63zy46R2nPLbEvU-Vk8v/view?usp=sharing)
 
 - [IRL Concepts](https://drive.google.com/drive/folders/14_4dTvTGwNcZhW-ForxBMyWPOLGG_2vx?usp=sharing)
 
@@ -54,5 +54,5 @@ Below is a list of material required for the hand-in for the project. I have als
 
 - [Formative Presentation](https://drive.google.com/file/d/1w4gcM-3ps7OzZn6ZouOo0hQ5t6Gdfs8e/view?usp=sharing)
 
-- [Summative presentation]()
+- [Summative presentation](https://docs.google.com/presentation/d/1EFtRTpbFCiyez8EGZthJpW2OJUIwZHKu7dOhOXx73Ys/edit?usp=sharing)
 
